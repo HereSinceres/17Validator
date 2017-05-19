@@ -1,0 +1,10 @@
+--lemma
+---- normal
+---- largeFeature
+------ movie 电影
+------ star 明星
+---- smallFeature
+------ brand 品牌
+------ build 建筑
+------ college 大学
+------ 
